@@ -1,0 +1,90 @@
+1. Azure Linux 4.0 is Microsoft's first general-purpose Linux (boxofcables.dev)
+   Link: https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/
+
+2. Meta enables ADB on deprecated Portal devices [video] (fb.watch)
+   Link: https://fb.watch/HxPu0fSyeH/
+
+3. Anthropic's open-source framework for AI-powered vulnerability discovery (github.com/anthropics)
+   Link: https://github.com/anthropics/defending-code-reference-harness
+
+4. Open Code Review – An AI-powered code review CLI tool (github.com/alibaba)
+   Link: https://github.com/alibaba/open-code-review
+
+5. Do transformers need three projections? Systematic study of QKV variants (arxiv.org)
+   Link: https://arxiv.org/abs/2606.04032
+
+6. VoidZero Is Joining Cloudflare (cloudflare.com)
+   Link: https://blog.cloudflare.com/voidzero-joins-cloudflare/
+
+7. I'm skeptical about efforts to revolutionize schooling (scotthyoung.com)
+   Link: https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/
+
+8. SpaceX: Flying High on Impunity (georgiebc.wordpress.com)
+   Link: https://georgiebc.wordpress.com/2026/06/01/flying-high-on-impunity/
+
+9. Branchless Quicksort faster than std:sort and pdqsort with C and C++ API (tiki.li)
+   Link: https://tiki.li/blog/blqsort
+
+10. SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P (bloomberg.com)
+   Link: https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation
+
+11. Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux" (github.com/tarpediem)
+   Link: https://github.com/tarpediem/zenvision-linux
+
+12. The Causes of Long Covid (science.org)
+   Link: https://www.science.org/content/blog-post/causes-long-covid
+
+13. South Korean Forums Will Need to Scan Every Images with AI Censorship Tools (privacyguides.net)
+   Link: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341
+
+14. When AI Builds Itself: Our progress toward recursive self-improvement (anthropic.com)
+   Link: https://www.anthropic.com/institute/recursive-self-improvement
+
+15. WiFi Time (mitxela.com)
+   Link: https://mitxela.com/projects/wifi_time
+
+16. Samurai City (worksinprogress.co)
+   Link: https://worksinprogress.co/issue/samurai-city/
+
+17. KVarN: Native vLLM backend for KV-cache quantization by Huawei (github.com/huawei-csl)
+   Link: https://github.com/huawei-csl/KVarN
+
+18. Queen bees emerge from special wax chambers (acs.org)
+   Link: https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06
+
+19. Retro-Tech Parenting (havenweb.org)
+   Link: https://havenweb.org/2026/05/28/retro-tech.html
+
+20. JLink JTAG Access on the Pinecil (danielmangum.com)
+   Link: https://danielmangum.com/posts/jlink-jtag-pinecil/
+
+21. Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate (arxiv.org)
+   Link: https://arxiv.org/abs/2604.24881
+
+22. Castor: CERN Advanced STORage Manager (cern.ch)
+   Link: https://castor.web.cern.ch/content/home.html
+
+23. Making Debian or Fedora persistent live images (sigwait.org)
+   Link: https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html
+
+24. Show HN: Mercek – A Desktop IDE for AWS ECS (mercek.dev)
+   Link: https://www.mercek.dev/
+
+25. IPv6 zones in URLs are a mistake (xeiaso.net)
+   Link: https://xeiaso.net/notes/2026/ipv6-zones-go-url/
+
+26. Delacroix's Entry of the Crusaders into Constantinople Restored (louvre.fr)
+   Link: https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory
+
+27. Zettascale (YC S24) Is Hiring Founding FPGA Engineers (ycombinator.com)
+   Link: https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect
+
+28. They’re made out of weights (maxleiter.com)
+   Link: https://maxleiter.com/blog/weights
+
+29. Meta Silently Added Face-Recognition for Its Smart Glasses to Phones (wired.com)
+   Link: https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/
+
+30. Ian's Secure Shoelace Knot (fieggen.com)
+   Link: https://www.fieggen.com/shoelace/secureknot.htm
+
